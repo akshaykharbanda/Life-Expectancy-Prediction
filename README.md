@@ -18,8 +18,8 @@ The dataset used in this project is from Kaggle: [Life Expectancy (WHO)](https:/
 - Identified key factors affecting life expectancy.
 
 ### Machine Learning Models
-- Implemented multiple regression models to predict life expectancy.
-- Evaluated models using performance metrics such as RMSE and R².
+- Implemented various regression models to predict life expectancy.
+- Evaluated models using performance metrics like RMSE, MAE, MAPE and R².
 
 ## Results
 - Identified significant predictors of life expectancy.
